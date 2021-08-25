@@ -1,0 +1,17 @@
+#area-chart,
+#line-chart,
+#bar-chart,
+#stacked,
+#pie-chart  {
+	min-height: 250px;
+}
+
+table, th, td {  
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+#error_subImage p {
+	margin-top: 15px;
+	margin-bottom: 0;
+}
